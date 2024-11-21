@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saranyapallam
 - 👀 I’m interested in Java Developer 
-- 🌱 I’m currently learning Reat\l Time Projects on Java, Spring boot, Microservices 
+- 🌱 I’m currently learning Real Time Projects on Java, Spring boot, Microservices 
 - 💞️ I’m looking to collaborate on Team Members 
 - 📫 How to reach me 7013607379
 - 😄 Pronouns: Saranya
